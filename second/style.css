@@ -1,0 +1,24 @@
+.blue {
+	background-color:#4A90E2;
+	height: 810px;
+	width: 473px;
+	float: left;
+}
+.green {
+	background-color:#50E3C2;
+	height: 810px;
+	width: 473px;
+	float:left;
+}
+.yellowTop {
+	background-color:#B8E986;
+	height: 520px;
+	width: 473px;
+	float:left;
+}
+
+img {
+	height: 290px;
+	width: 473px;
+	float: left;
+}

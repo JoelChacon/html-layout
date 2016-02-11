@@ -1,0 +1,39 @@
+
+.row {
+	background-color:#0E1628;
+	height: 200px;
+	
+}
+
+.pic {
+	width: 175px;
+	border-radius: 55%;
+	margin: 0 auto;
+		
+}
+.row1 {
+	height: 755px;
+}
+
+.col1 {
+	background-color:#D8D8D8;
+	height: 620px;
+	width: 180px;
+	float: left;
+}
+.col2 {
+	background-color:#D8D8D8;
+	height: 620px;
+	width: 180px;
+	float: right;
+}
+
+.midLowRow {
+	background: black;
+	height: 175px;
+	width: 1064px;
+	clear: both;
+	margin:0 180px;
+	position: absolute;
+	bottom: 0;
+}

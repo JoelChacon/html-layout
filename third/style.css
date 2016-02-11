@@ -1,0 +1,41 @@
+.topGrey {
+	height: 140px;
+	width:1424px;
+	background-color:#D8D8D8;
+	float: left;
+}
+.square {
+	height: 100px;
+	width: 100px;
+	background-color: #4A90E2;
+	float:left;
+	margin: 20px 40px;
+}
+.white {
+	height: 300px;
+	float: left;
+}
+
+.text {
+	margin:60px 60px;
+}
+.blue {
+	background-color: #4A90E2;
+	height: 150px;
+	clear: both;
+}
+.green {
+	background-color: #50E3C2;
+	height: 150px;
+	clear: both; 
+}
+.sand {
+	background-color:#B8E986;
+	height: 150px;
+	clear: both; 
+}
+.yellow {
+	background-color:#F8E71C;
+	height: 150px;
+	clear: both; 
+}
